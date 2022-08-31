@@ -35,3 +35,5 @@ O(n^2)
 *3.* [2,3,5,7,8,9,4,15,6]
 
 *4.* [2,3,4,5,7,8,9,15,6]
+
+[Patika Profil](https://app.patika.dev/vma)
